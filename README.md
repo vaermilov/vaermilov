@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaermilov
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in data-driven product management
 - 🌱 I’m currently learning R
 
 <!---
