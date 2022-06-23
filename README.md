@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaermilov
 - 👀 I’m interested in data-driven product management
-- 🌱 I’m currently learning R
+- 🌱 I’m using R
 
 <!---
 vaermilov/vaermilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
